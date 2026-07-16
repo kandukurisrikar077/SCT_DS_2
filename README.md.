@@ -1,0 +1,106 @@
+# 🛍️ Customer Segmentation using K-Means Clustering
+
+## 📌 SkillCraft Technology – Data Science Internship
+
+### Task 02
+
+This project was completed as part of the **SkillCraft Technology Data Science Internship**.
+
+The objective of this project is to segment customers of a retail store using the **K-Means Clustering** algorithm based on their purchasing behavior.
+
+---
+
+## 📊 Dataset
+
+**Dataset:** Mall Customer Segmentation Dataset
+
+Features used:
+
+- Annual Income (k$)
+- Spending Score (1–100)
+
+Dataset Link:
+
+https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
+
+---
+
+## 🛠 Technologies Used
+
+- Python
+- Google Colab
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Pickle
+
+---
+
+## 📈 Workflow
+
+- Imported required libraries
+- Loaded the dataset
+- Explored and visualized the data
+- Encoded categorical values
+- Applied the Elbow Method to determine the optimal number of clusters
+- Built a K-Means Clustering model
+- Visualized customer clusters
+- Saved the trained model
+- Predicted the cluster for new customer data
+
+---
+
+## 📂 Files Included
+
+- customer_segmentation.ipynb
+- Mall_Customers.csv
+- kmeans_model.pkl
+- task2_demo.mp4
+- correlation_heatmap.png
+- elbow_method.png
+- customer_clusters.png
+- prediction_output.png
+- README.md
+- requirements.txt
+
+---
+
+## 🚀 How to Run
+
+Clone the repository
+
+```bash
+git clone https://github.com/kandukurisrikar077/SCT_DS_2.git
+```
+
+Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+Open
+
+```
+customer_segmentation.ipynb
+```
+
+Run all cells.
+
+---
+
+## 👨‍💻 Author
+
+**Kandukuri Srikar**
+
+B.Tech Computer Science Engineering
+
+SkillCraft Technology – Data Science Intern
+
+---
+
+## ⭐ Acknowledgement
+
+This project was completed as part of **SkillCraft Technology Data Science Internship – Task 02**.
