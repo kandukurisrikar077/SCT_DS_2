@@ -57,7 +57,11 @@ https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-p
 - customer_segmentation.ipynb
 - Mall_Customers.csv
 - kmeans_model.pkl
-- task2_demo.mp4
+- ## 🎥 Demo Video
+
+Watch the project demonstration here:
+
+https://drive.google.com/file/d/1OGzEdGIhSiViKeDb1E3XFzam82s_wryw/view?usp=drive_link
 - correlation_heatmap.png
 - elbow_method.png
 - customer_clusters.png
