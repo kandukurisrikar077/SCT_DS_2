@@ -1,10 +1,10 @@
 # 🛍️ Customer Segmentation using K-Means Clustering
 
-## 📌 SkillCraft Technology – Data Science Internship
+## 📌 SkillCraft Technology – Machine Learning Internship
 
 ### Task 02
 
-This project was completed as part of the **SkillCraft Technology Data Science Internship**.
+This project was completed as part of the **SkillCraft Technology Machine Learning Internship**.
 
 The objective of this project is to segment customers of a retail store using the **K-Means Clustering** algorithm based on their purchasing behavior.
 
@@ -12,15 +12,14 @@ The objective of this project is to segment customers of a retail store using th
 
 ## 📊 Dataset
 
-**Dataset:** Mall Customer Segmentation Dataset
+**Mall Customer Segmentation Dataset**
 
-Features used:
+Features Used:
 
 - Annual Income (k$)
 - Spending Score (1–100)
 
-Dataset Link:
-
+Dataset:
 https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
 
 ---
@@ -44,11 +43,11 @@ https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-p
 - Loaded the dataset
 - Explored and visualized the data
 - Encoded categorical values
-- Applied the Elbow Method to determine the optimal number of clusters
-- Built a K-Means Clustering model
+- Applied the Elbow Method
+- Built the K-Means Clustering model
 - Visualized customer clusters
 - Saved the trained model
-- Predicted the cluster for new customer data
+- Predicted customer clusters
 
 ---
 
@@ -57,11 +56,6 @@ https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-p
 - customer_segmentation.ipynb
 - Mall_Customers.csv
 - kmeans_model.pkl
-- ## 🎥 Demo Video
-
-Watch the project demonstration here:
-
-https://drive.google.com/file/d/1OGzEdGIhSiViKeDb1E3XFzam82s_wryw/view?usp=drive_link
 - correlation_heatmap.png
 - elbow_method.png
 - customer_clusters.png
@@ -71,21 +65,23 @@ https://drive.google.com/file/d/1OGzEdGIhSiViKeDb1E3XFzam82s_wryw/view?usp=drive
 
 ---
 
+## 🎥 Demo Video
+
+https://drive.google.com/file/d/1OGzEdGIhSiViKeDb1E3XFzam82s_wryw/view?usp=drive_link
+
+---
+
 ## 🚀 How to Run
 
-Clone the repository
-
 ```bash
-git clone https://github.com/kandukurisrikar077/SCT_DS_2.git
+git clone https://github.com/kandukurisrikar077/SCT_ML_2.git
 ```
-
-Install dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-Open
+Open:
 
 ```
 customer_segmentation.ipynb
@@ -101,10 +97,10 @@ Run all cells.
 
 B.Tech Computer Science Engineering
 
-SkillCraft Technology – Data Science Intern
+SkillCraft Technology – Machine Learning Intern
 
 ---
 
 ## ⭐ Acknowledgement
 
-This project was completed as part of **SkillCraft Technology Data Science Internship – Task 02**.
+This project was completed as part of the **SkillCraft Technology Machine Learning Internship – Task 02**.
